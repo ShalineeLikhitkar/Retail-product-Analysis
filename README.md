@@ -27,8 +27,6 @@ The data used in this dashboard includes:
 3.	Analyze trends and insights for retail product sales.
 
 ***Dashboard***
-
-
 •	![Screenshot 2025-03-30 140454](https://github.com/user-attachments/assets/dfb88f68-8285-4b92-aa5f-97859f02a030)
 •	![Screenshot 2025-03-30 150233](https://github.com/user-attachments/assets/88fd4241-3797-4e06-b7b0-0cbc21691503)
 •	![Screenshot 2025-03-30 150247](https://github.com/user-attachments/assets/f9c40f08-bd89-4f40-87b6-5db5d6e4bc4d)
