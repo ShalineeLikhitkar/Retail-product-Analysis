@@ -2,6 +2,11 @@
 
 This Power BI project provides a detailed analysis of retail product performance across regions, cities, and product categories. It helps stakeholders understand sales trends, retailer distribution, and product-wise performance.
 
+
+![Uploading Screenshot 2025-03-30 140454.png…]()
+
+
+
 ## 🔍 Dashboard Insights
 
 The dashboard includes:
